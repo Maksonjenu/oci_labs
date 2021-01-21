@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oci2", "oci2\oci2.csproj", "{D6D77A80-C60E-42D8-8052-2C5793129E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D77A80-C60E-42D8-8052-2C5793129E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D77A80-C60E-42D8-8052-2C5793129E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D77A80-C60E-42D8-8052-2C5793129E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D77A80-C60E-42D8-8052-2C5793129E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B81B55-B7E3-461B-825A-1C0E39185C9A}
+	EndGlobalSection
+EndGlobal
